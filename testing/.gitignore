@@ -1,0 +1,7 @@
+*.class
+*.project
+*.classpath
+org.*
+/testing/target/**
+/testing/.settings
+/testing/EclipseWorkSpace/**
